@@ -4,3 +4,21 @@ Asignment:
 - [Inscribirse al curso de Python](https://edube.org/study/pe1)
 - [Cómo hacer un Navbar horizontal](https://www.w3schools.com/Css/css_navbar.asp)
 - [Bootstrap](https://getbootstrap.com/docs/4.5/examples/) 
+
+# Mapa de Ruta
+## Estructuras de Datos y Algoritmos
+
+## Web
+### ¿Cómo funciona el internet?
+- [The internet](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [What is HTTP](https://www.w3schools.com/whatis/whatis_http.asp)
+- [¿Qué es DNS?](https://www.cloudflare.com/es-es/learning/dns/what-is-dns/)
+- [What is a web hosting](https://www.website.com/beginnerguide/webhosting/6/1/what-is-web-hosting?.ws)
+
+### HTML
+### CSS
+### Javascript
+### Control de versiones
+### Manejo de paquetes y Build Tools
+### Frameworks
+
