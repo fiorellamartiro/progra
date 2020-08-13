@@ -1,9 +1,17 @@
 # Progra
-## Agosto 11 2020
+## Agosto 11, 2020
 Asignment:
-- [Inscribirse al curso de Python](https://edube.org/study/pe1)
+- [Inscribirse al curso de Python](https://edube.org/study/pe1) Modulo 1 y 2
 - [Cómo hacer un Navbar horizontal](https://www.w3schools.com/Css/css_navbar.asp)
+### Extras
 - [Bootstrap](https://getbootstrap.com/docs/4.5/examples/) 
+
+## Agosto 13, 2020
+Asignment
+
+### Extras
+- [Referencia Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [Oat the Goat](http://www.oatthegoat.co.nz/)
 
 # Mapa de Ruta
 ## Estructuras de Datos y Algoritmos
