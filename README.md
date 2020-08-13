@@ -7,7 +7,8 @@ Asignment:
 - [Bootstrap](https://getbootstrap.com/docs/4.5/examples/) 
 
 ## Agosto 13, 2020
-Asignment
+Asignment:
+- [Instalar Python](https://www.python.org/downloads/)
 
 ### Extras
 - [Referencia Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
