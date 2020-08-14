@@ -8,6 +8,7 @@ Asignment:
 
 ## Agosto 13, 2020
 Asignment:
+- Terminar Módulo 2
 - [Instalar Python](https://www.python.org/downloads/)
 - [Descargar Winrar](https://www.winrar.es/descargas)
 - Ejercicio Robot. Imagenes sobre imagenes con CSS. e.g.
