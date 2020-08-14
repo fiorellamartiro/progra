@@ -11,14 +11,16 @@ Asignment:
 - [Instalar Python](https://www.python.org/downloads/)
 - [Descargar Winrar](https://www.winrar.es/descargas)
 - Ejercicio Robot. Imagenes sobre imagenes con CSS. e.g.
-  ``
+
+``
   eyes{
           position: absolute;
           top: 200px;
           left: 200px;
           width: 200px;
       }
- ``
+``
+ 
 - Terminar el header
 - Página tributo (libro)
 
