@@ -9,6 +9,10 @@ Asignment:
 ## Agosto 13, 2020
 Asignment:
 - [Instalar Python](https://www.python.org/downloads/)
+- [Descargar Winrar](https://www.winrar.es/descargas)
+- Ejercicio Robot. Imagenes sobre imagenes con CSS
+- Terminar el header
+- Página tributo (libro)
 
 ### Extras
 - [Referencia Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
