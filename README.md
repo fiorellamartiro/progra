@@ -1,10 +1,24 @@
 # Progra
-## Agosto 11, 2020
-Asignment:
-- [Inscribirse al curso de Python](https://edube.org/study/pe1) Modulo 1 y 2
-- [Cómo hacer un Navbar horizontal](https://www.w3schools.com/Css/css_navbar.asp)
-### Extras
-- [Bootstrap](https://getbootstrap.com/docs/4.5/examples/) 
+
+## Agosto 18, 2020
+- Javascript ¿qué puede hacer? ¿qué no puede hacer?
+- Otros "sabores" de Javascript [Typescript](https://www.typescriptlang.org/)
+- Consola del navegador ¿cómo correr Javascript en mi pc? 
+- El tag de script. Hola mundo, alert, y console.log
+- El tag de script y el src path
+- Comentarios (1 línea // y multilínea /* */) y el punto y coma ;
+- Let, var, y const
+- Tipos de datos
+  - Number
+  - BigInt n
+  - String
+  - Boolean (o booleano)
+  - Null
+  - typeof
+- Conversiones String(), Number(), Boolean()
+- Expresiones embebidas alert( `hello ${1}` );
+- Alert, prompt, confirm
+- Operaciones +, -, *, /, %, ** , ++ strings
 
 ## Agosto 13, 2020
 Asignment:
@@ -24,6 +38,14 @@ Asignment:
  
 - Terminar el header
 - Página tributo (libro)
+
+## Agosto 11, 2020
+Asignment:
+- [Inscribirse al curso de Python](https://edube.org/study/pe1) Modulo 1 y 2
+- [Cómo hacer un Navbar horizontal](https://www.w3schools.com/Css/css_navbar.asp)
+### Extras
+- [Bootstrap](https://getbootstrap.com/docs/4.5/examples/) 
+
 
 ### Extras
 - [Referencia Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
