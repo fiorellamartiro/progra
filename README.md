@@ -21,7 +21,7 @@
 - Operaciones +, -, *, /, %, ** , ++ strings
 Asignments:
 - Terminar botones Resta, Multiplicación, y División
-- Puntos extra: hacer las operaciones con prompt()
+- Puntos extra: Elegir operación, hacer las operaciones con prompt() x2, mostrar resultado en alerta
 
 ## Agosto 13, 2020
 Asignment:
