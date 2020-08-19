@@ -19,6 +19,9 @@
 - Expresiones embebidas alert( `hello ${1}` );
 - Alert, prompt, confirm
 - Operaciones +, -, *, /, %, ** , ++ strings
+Asignments:
+- Terminar botones Resta, Multiplicación, y División
+- Puntos extra: hacer las operaciones con prompt()
 
 ## Agosto 13, 2020
 Asignment:
