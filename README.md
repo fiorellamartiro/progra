@@ -1,5 +1,17 @@
 # Progra
 
+## Agosto 20, 2020
+- Repaso de JS de la lección pasada. Variables, datos
+- Revisión de la calculadora
+- Javascript
+  - Comparaciones <, >, <=>, ==, !=
+  - Comparación de Strings y de números
+  - Comparación ===. 0 de false. null de undefined
+  - if(){}
+  - else if(){}. else{}
+  - Operador condicional ? let result = condition ? value1 : value2;
+  - Operadores lógicos. AND &&, OR ||, NOT !.
+    - Suplemental: [Operaciones Logicas](https://espaciotecnologico.co/operaciones-logicas/)
 ## Agosto 18, 2020
 - Javascript ¿qué puede hacer? ¿qué no puede hacer?
 - Otros "sabores" de Javascript [Typescript](https://www.typescriptlang.org/)
