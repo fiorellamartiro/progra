@@ -12,6 +12,12 @@
   - Operador condicional ? let result = condition ? value1 : value2;
   - Operadores lógicos. AND &&, OR ||, NOT !.
     - Suplemental: [Operaciones Logicas](https://espaciotecnologico.co/operaciones-logicas/)
+Asignments:
+- Página de Intro. Foto grande. [Sombra al navbar](https://www.w3schools.com/csS/css3_shadows.asp)
+- Página de galería [Tutorial](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+- Ejercicios de Javascript
+- Probar [Codewars](https://www.codewars.com/)
+
 ## Agosto 18, 2020
 - Javascript ¿qué puede hacer? ¿qué no puede hacer?
 - Otros "sabores" de Javascript [Typescript](https://www.typescriptlang.org/)
