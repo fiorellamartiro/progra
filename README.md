@@ -5,7 +5,7 @@ Asignment:
 - Ejercicios JSHero hasta el 60 para el otro martes
 - Parallax CSS + JS
 - [Property](https://www.w3schools.com/cssref/css3_pr_transform.asp)
-
+- [Unidades en CSS](https://www.w3schools.com/CSSref/css_units.asp)
 
 ## Agosto 20, 2020
 - Repaso de JS de la lección pasada. Variables, datos
