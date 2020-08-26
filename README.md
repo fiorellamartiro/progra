@@ -1,5 +1,11 @@
 # Progra
 
+## Agosto 25, 2020
+Asignment: 
+- Ejercicios JSHero hasta el 60 para el otro martes
+- Parallax CSS + JS
+
+
 ## Agosto 20, 2020
 - Repaso de JS de la lección pasada. Variables, datos
 - Revisión de la calculadora
