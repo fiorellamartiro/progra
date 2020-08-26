@@ -4,6 +4,7 @@
 Asignment: 
 - Ejercicios JSHero hasta el 60 para el otro martes
 - Parallax CSS + JS
+- [Property](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 
 ## Agosto 20, 2020
