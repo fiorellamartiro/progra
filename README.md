@@ -6,6 +6,7 @@ AsigNment:
   - Puntos extra si la función no acepta strings. Si son letras retorna "error". Hint utilizar === o typeOf()
 - Hacer página con divs y parallax css o JS (background-attachment: fixed;)
 - Reloj JS + CSS
+- [Open CS Degree](https://github.com/ForrestKnight/open-source-cs-python)
 
 ## Agosto 25, 2020
 Asignment: 
