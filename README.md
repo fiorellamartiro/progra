@@ -1,5 +1,12 @@
 # Progra
 
+## Agosto 27, 2020
+AsigNment:
+- Función que determina si un número es par o impar, utilizar operador % e ifs. 1 parámetro. Si es par la función regresa "par", si es impar regresa "impar".
+  - Puntos extra si la función no acepta strings. Si son letras retorna "error". Hint utilizar === o typeOf()
+- Hacer página con divs y parallax css o JS (background-attachment: fixed;)
+- Reloj JS + CSS
+
 ## Agosto 25, 2020
 Asignment: 
 - Ejercicios JSHero hasta el 60 para el otro martes
