@@ -6,6 +6,7 @@
 - Repaso JS. Arrays, ver ejemplo de colores y Math.random()
 - [Notion](https://www.notion.so/pricing)
 - [Adobe XD](https://www.adobe.com/products/xd.html)
+
 Asignment:
 - Drumkit u otro instrumento de tu preferencia. Agregar botón para que se detenga el jam, agregar otra canción de tu preferencia
 - Calculadora orbital 
