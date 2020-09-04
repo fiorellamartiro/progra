@@ -4,6 +4,7 @@
 - UX/UI: ¿ cuál es tu meta? ¿cuál es la meta de tus usuarios? ¿preguntas? Emociones que querés generar. ¿Dónde se juntan esas preguntas o emociones? ¿A qué vienen los usuarios, cuál es la prioridad? ¿qué preguntas tienen los usuarios? ¿qué recursos se pueden mostrar, qué es de valor para el usuario? Realizar un mockup con lápiz y papel.
 - Definir página final para final del mes: ¿cuántas páginas va a tener? Utilizar mockup como referencia, Adobe XD como opción para prototipos de Alta Fidelidad.
 - Repaso JS. Arrays, ver ejemplo de colores y Math.random()
+- [Notion](https://www.notion.so/pricing)
 Asignment:
 - Drumkit u otro instrumento de tu preferencia. Agregar botón para que se detenga el jam, agregar otra canción de tu preferencia
 - Calculadora orbital 
