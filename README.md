@@ -13,6 +13,7 @@ Asignment:
 - Deployment de una página a Github Pages, utilizando la configuración del repositorio
 - Ejemplo de Google Forms, embebbed.
 - Mockup en lapiz de la página personal, cantidad de páginas, estudio UX
+- Random color picker
 
 ## Agosto 27, 2020
 Asignment:
