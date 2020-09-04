@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+    <title>Background color</title>
+    <style>
+        .flex-background{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;          
+        }
+        button{
+            height: 20vh;
+            width: 30vh;
+            font-size: large;
+            background-color: black;
+            color: white;
+            border-radius: 20%;
+        }
+    </style>
+</head>
+<body>
+    <div class="flex-background">
+        <button class="flex-element" id="cambiar" onclick="changeColor()">Cambiar Color</button>
+    </div>
+    <script>
+        const colors = ['red', 'cadetblue', 'cornflowerblue','darkolivegreen', 'grey', 'tomato'];
+
+        function getRandomColor(){
+            let rand = Math.floor(Math.random() * colors.length);
+            console.log(colors[rand])
+            return colors[rand];
+        }
+
+        function changeColor(){
+            document.body.style.background = String(getRandomColor());
+        }
+    </script>
+</body>
+</html>

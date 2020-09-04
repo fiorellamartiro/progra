@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<head>
+    <title>Jam</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <audio id="hihat">
+        <source src="./Drum/hihat.ogg" type="audio/ogg">
+    </audio>
+    <audio id="snare">
+        <source src="./Drum/snare.mp3" type="audio/mp3">
+    </audio>
+    <audio id="kick">
+        <source src="./Drum/kick.wav" type="audio/wav">
+    </audio>
+    <audio id="ride">
+        <source src="./Drum/ride.wav" type="audio/wav">
+    </audio>
+    <audio id="jam">
+        <source src="./Drum/song1.mp3" type="audio/mp3">
+    </audio>
+
+    <div class="flex-container">
+        <div class="flex-element" id="hihatBtn">Hi Hat <br> A</div>
+        <div class="flex-element" id="snareBtn">Snare<br> S</div>
+        <div class="flex-element" id="kickBtn">Kick <br>D</div>
+        <div class="flex-element" id="rideBtn">Ride <br> F</div>
+    </div>
+    <br>
+    <div class="wrapper">
+        <button class="jam" onclick="jam()">Lets Jam!</button>
+    </div>
+
+    <script>
+        let hihat = document.getElementById('hihat');
+        let snare = document.getElementById('snare');
+        let kick = document.getElementById('kick');
+        let ride = document.getElementById('ride');
+
+        let hihatBtn = document.getElementById('hihatBtn');
+        let snareBtn = document.getElementById('snareBtn');
+        let kickBtn = document.getElementById('kickBtn'); 
+        let rideBtn = document.getElementById('rideBtn');       
+
+        addEventListener('keydown', function(e){
+            console.log(e.keyCode);
+            if(e.keyCode == 65){
+                hihat.currentTime = 0;
+                hihat.play();
+            }else if(e.keyCode == 83){
+                snare.currentTime = 0;
+                snare.play();
+            }else if(e.keyCode == 68){
+                kick.currentTime = 0;
+                kick.play();
+            }else if(e.keyCode == 70){
+                ride.currentTime = 0;
+                ride.play();
+            }
+        })
+
+        hihatBtn.addEventListener('click', function(e){          
+                hihat.currentTime = 0;
+                hihat.play();
+        })
+
+        snareBtn.addEventListener('click', function(e){          
+                snare.currentTime = 0;
+                snare.play();
+        })
+
+        kickBtn.addEventListener('click', function(e){          
+                kick.currentTime = 0;
+                kick.play();
+        })
+
+        rideBtn.addEventListener('click', function(e){          
+                ride.currentTime = 0;
+                ride.play();
+        })        
+
+        function jam(){
+            let jam = document.getElementById('jam');
+            jam.currentTime = 0;
+            jam.play();
+        }
+       
+    </script>
+
+</body>
+</html>
