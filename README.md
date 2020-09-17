@@ -1,5 +1,14 @@
 # Progra
 
+## Septiembre 16, 2020
+Design inspiration:
+- https://dribbble.com/
+Iconos:
+- https://icon-icons.com/search/icons/instagram
+HTML Templates:
+- https://colorlib.com/wp/templates/
+- https://nicepage.com/html-templates
+
 ## Septiembre 3, 2020
 - UX/UI: ¿ cuál es tu meta? ¿cuál es la meta de tus usuarios? ¿preguntas? Emociones que querés generar. ¿Dónde se juntan esas preguntas o emociones? ¿A qué vienen los usuarios, cuál es la prioridad? ¿qué preguntas tienen los usuarios? ¿qué recursos se pueden mostrar, qué es de valor para el usuario? Realizar un mockup con lápiz y papel.
 - Definir página final para final del mes: ¿cuántas páginas va a tener? Utilizar mockup como referencia, Adobe XD como opción para prototipos de Alta Fidelidad.
